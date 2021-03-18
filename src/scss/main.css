@@ -1,0 +1,13 @@
+.v-main {
+    background-color: black;
+
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+h1 {
+  color: #82bae5;
+}
